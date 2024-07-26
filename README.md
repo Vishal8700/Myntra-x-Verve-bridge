@@ -8,7 +8,7 @@ This project is a clone of the popular e-commerce website Myntra, developed usin
 
 ## Demo Video
 
-[![Demo](https://img.youtube.com/vi/PxBTiFuUHkQ/0.jpg)](https://www.youtube.com/watch?v=PxBTiFuUHkQ)
+[![Demo](https://img.youtube.com/vi/PxBTiFuUHkQ/0.jpg)](https://www.youtube.com/watch?v=PxBTiFuUHkQ)<hr/>
 ![vervebridge](https://github.com/user-attachments/assets/95b22f10-4bef-4551-bdba-14c6e137b952)
 
 
