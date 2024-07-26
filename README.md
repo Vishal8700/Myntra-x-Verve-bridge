@@ -12,7 +12,7 @@ For a video demonstration of the Myntra Clone project, watch our YouTube video:
 
 [![Myntra Clone Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=PxBTiFuUHkQ)
 
-Click the image above or [here](https://www.youtube.com/watch?v=PxBTiFuUHkQ) to watch the demo video.
+Click the image above or [here]([https://www.youtube.com/watch?v=PxBTiFuUHkQ](https://www.youtube.com/watch?v=PxBTiFuUHkQ)) to watch the demo video.
 
 
 ## Table of Contents
