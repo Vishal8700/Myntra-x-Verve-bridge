@@ -1,0 +1,80 @@
+.footer {
+    font-family:poppins;
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    margin: 0;
+}
+
+.footer-container {
+    max-width: 1600px; /* Adjust max-width as needed */
+    margin: auto auto;
+    padding: 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Ensures even spacing */
+}
+
+.footer .section {
+    flex: 1; /* Allow sections to grow equally */
+    min-width: 200px; /* Ensure sections don't shrink too small */
+    margin: 30px; /* Add margin between sections */
+}
+
+.footer .section-title {
+    font-weight: bold;
+    color: #343a40;
+    margin-bottom: 10px;
+}
+
+.footer .section-links,
+.footer .social-links,
+.footer .guarantee {
+    text-align: left;
+}
+
+.footer .section-links p,
+.footer .guarantee p {
+    margin-bottom: 5px;
+    color: #6c757d;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.footer .section-links p:hover,
+.footer .guarantee p:hover {
+    color: #343a40;
+}
+
+.footer .app-links img {
+    width: 120px;
+    margin-right: 10px;
+    transition: transform 0.3s;
+}
+
+.footer .app-links img:hover {
+    transform: scale(1.1);
+}
+
+.footer .social-links a {
+    color: #6c757d;
+    margin-right: 15px;
+    transition: color 0.3s;
+}
+
+.footer .social-links a:hover {
+    color: #343a40;
+}
+
+.footer .guarantee img {
+    width: 50px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.footer .guarantee p {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+    margin: 0;
+}

@@ -1,0 +1,58 @@
+
+
+.kids-body {
+    text-align: center;
+  }
+  
+  .banner-image,
+  .offer-image {
+    width:100%; 
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .product-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .product-card {
+    width: 23%;
+    margin-bottom: 20px;
+    border: 1px solid #e0e0e000;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: left;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
+  }
+  
+  .product-image {
+    width: 100%;
+    height: 500;
+    border-radius: 10;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .product-details {
+    padding: 10px;
+  }
+  
+  .product-details h5 {
+    margin: 10px 0;
+  }
+  
+  .product-details .old-price {
+    color: #a0a0a0;
+    font-size: 0.9em;
+  }
+  
+  .product-details .new-price {
+    color: #ff0000;
+    font-size: 1.1em;
+  }
+  
